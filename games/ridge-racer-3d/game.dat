@@ -1,5 +1,5 @@
 title = "Ridge Racer 3D"
-description = "Ridge racer 3D is an arcade racing game where your only object of the game is to become the best racer in the Ridge Racer Grand Prix.\n\nWithin the build"
+description = "Ridge racer 3D is an arcade racing game where your only object of the game is to become the best racer in the Ridge Racer Grand Prix.\n\nWithin the build tested, Streetpass softlocks the game, and attempting to play Grand Prix mode crashes the game once it begins."
 needs_system_files = false
 needs_shared_font = false
 
