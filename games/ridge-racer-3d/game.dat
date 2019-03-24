@@ -1,0 +1,9 @@
+title = "Ridge Racer 3D"
+description = "Ridge racer 3D is an arcade racing game where your only object of the game is to become the best racer in the Ridge Racer Grand Prix.\n\nWithin the build"
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000035800"
+region = "usa"
+release_date = "2011-03-22"
